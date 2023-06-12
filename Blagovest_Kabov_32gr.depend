@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1638659514 source:c:\users\blagovest\desktop\tu - 5 semester\kursovape\blagovest_kabov_32gr\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<bits/stdc++.h>
+	<fstream>
+
